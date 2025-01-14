@@ -1,0 +1,18 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  rend.cpp
+C:\Users\Minho Jang\source\repos\CSCI_580_HW_3D_Graphics_Rendering\HW4\rend.cpp(48,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/rend.cpp')
+  
+C:\Users\Minho Jang\source\repos\CSCI_580_HW_3D_Graphics_Rendering\HW4\rend.cpp(558,12): warning C4101: 'light': unreferenced local variable
+  (compiling source file '/rend.cpp')
+  
+C:\Users\Minho Jang\source\repos\CSCI_580_HW_3D_Graphics_Rendering\HW4\rend.cpp(984,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/rend.cpp')
+  
+C:\Users\Minho Jang\source\repos\CSCI_580_HW_3D_Graphics_Rendering\HW4\rend.cpp(989,69): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/rend.cpp')
+  
+C:\Users\Minho Jang\source\repos\CSCI_580_HW_3D_Graphics_Rendering\HW4\rend.cpp(999,69): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/rend.cpp')
+  
+  CS580HW4.vcxproj -> C:\Users\Minho Jang\source\repos\CSCI_580_HW_3D_Graphics_Rendering\HW4\Debug\CS580HW4.exe

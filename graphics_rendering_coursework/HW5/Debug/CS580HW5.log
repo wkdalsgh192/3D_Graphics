@@ -1,0 +1,24 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  tex_fun.cpp
+C:\Users\Minho Jang\source\repos\CSCI_580_HW_3D_Graphics_Rendering\HW5\tex_fun.cpp(34,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/tex_fun.cpp')
+  
+C:\Users\Minho Jang\source\repos\CSCI_580_HW_3D_Graphics_Rendering\HW5\tex_fun.cpp(35,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/tex_fun.cpp')
+  
+C:\Users\Minho Jang\source\repos\CSCI_580_HW_3D_Graphics_Rendering\HW5\tex_fun.cpp(36,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/tex_fun.cpp')
+  
+C:\Users\Minho Jang\source\repos\CSCI_580_HW_3D_Graphics_Rendering\HW5\tex_fun.cpp(58,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/tex_fun.cpp')
+  
+C:\Users\Minho Jang\source\repos\CSCI_580_HW_3D_Graphics_Rendering\HW5\tex_fun.cpp(59,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/tex_fun.cpp')
+  
+C:\Users\Minho Jang\source\repos\CSCI_580_HW_3D_Graphics_Rendering\HW5\tex_fun.cpp(20,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/tex_fun.cpp')
+  
+C:\Users\Minho Jang\source\repos\CSCI_580_HW_3D_Graphics_Rendering\HW5\tex_fun.cpp(25,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/tex_fun.cpp')
+  
+  CS580HW5.vcxproj -> C:\Users\Minho Jang\source\repos\CSCI_580_HW_3D_Graphics_Rendering\HW5\Debug\CS580HW5.exe
